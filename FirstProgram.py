@@ -6,7 +6,8 @@ for i in lst:
 
 print("I have done some modification")
 print("sum ",sum(lst))
+print("Min ",min(lst))
 print("Length ",len(lst))
 lst.sort()
 print(lst)
-print("My name is Ram")
+print("My name is Prashant ")
